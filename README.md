@@ -1,6 +1,6 @@
 # Xue Wen's PFD-Assignment-Blog
 
-## Week 1 - October 22nd, 2023:
+## Week 1 - October 17th, 2023:
 
 ### Goal: Enhancing OCBC App Accessibility for the Elderly
 ### Focus: Mobility impaired (amputees, limited arm movement)
@@ -49,3 +49,15 @@ In conclusion, we are excited about the direction our project is taking. Our cha
 
 #### Next Steps:
 Our next steps include initiating the development phase and ensuring that our chatbot's features align with OCBC's online banking platform. We will continue to update our team regularly and remain dedicated to our project's success.
+
+
+## Week 2 - October 24th, 2023:
+
+
+## Week 3 - October 31th, 2023:
+
+
+## Week 4 - November 7th, 2023:
+
+
+## Week 5 - November 14th, 2023:
