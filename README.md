@@ -52,7 +52,23 @@ Our next steps include initiating the development phase and ensuring that our ch
 
 
 ## Week 2 - October 24th, 2023:
+During the second week of our project development, our group engaged in a constructive meeting with an OCBC representative to discuss our proposed features. We received valuable feedback that guided us in refining our focus. Consequently, we decided to concentrate our efforts on integrating our solutions into OCBC's web application, with particular emphasis on developing keybinds and gesture/eye tracking features.
 
+I found the discussion to be exceptionally productive, offering a clear direction for our development efforts. The decision to prioritize keybinds and gesture-based features aligns well with our goal of enhancing accessibility for users with impaired mobility. This week's interactions with the OCBC representative have provided us with a more targeted vision for the project, and I believe this focused approach will contribute significantly to our development progress.
+
+On the technical front, our team has completed an Inception deck, ensuring that everyone is on the same page and that our project aligns with OCBC's expectations. We are committed to delivering a proof of concept for the speech-to-text feature to further validate our approach before moving forward with full-scale development.
+
+OAL Reflection:
+
+This week's OAL sessions were particularly enriching, covering essential topics such as design thinking and the Inception deck.
+
+The design thinking OAL, coupled with my completion of the IBM Design Thinking courseware, provided me with a comprehensive understanding of the methodology's various phases and its practical applications. This knowledge has proven invaluable in shaping our project's development strategy, ensuring a user-centric and problem-solving approach.
+
+The Inception deck OAL further equipped me with the skills needed to construct a comprehensive project overview. This structured understanding was immediately applied in our team's collaborative creation of the Inception deck. The exercise not only facilitated effective problem-solving but also strengthened our ability to communicate our project's goals and objectives clearly.
+
+In addition, the insights gained from the OAL sessions on Agile methodologies, prototyping tools like Figma and Adobe XD, and UI/UX design principles have deepened my understanding of these crucial aspects of project development. I am eager to apply this newfound knowledge to our portfolio development project, ensuring a robust and user-friendly end product.
+
+Overall, Week 2 has been a dynamic blend of practical project development and theoretical learning through OAL, positioning our team for success in the upcoming phases of our OCBC accessibility project.
 
 ## Week 3 - October 31th, 2023:
 
