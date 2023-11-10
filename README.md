@@ -58,7 +58,7 @@ I found the discussion to be exceptionally productive, offering a clear directio
 
 On the technical front, our team has completed an Inception deck, ensuring that everyone is on the same page and that our project aligns with OCBC's expectations. We are committed to delivering a proof of concept for the speech-to-text feature to further validate our approach before moving forward with full-scale development.
 
-####OAL Reflection:
+#### OAL Reflection:
 
 This week's OAL sessions were particularly enriching, covering essential topics such as design thinking and the Inception deck.
 
@@ -81,7 +81,7 @@ On the coding front, our team made significant progress. I am pleased to share t
 
 Overall, I consider this week to be exceptionally productive, setting a strong foundation for our upcoming participation in the Hackathon in Week 5. The continuous alignment with OCBC's expectations and the iterative development approach reflect the agile principles we've embraced in our project management.
 
-####OAL Reflection:
+#### OAL Reflection:
 
 This week's OAL sessions delved into the intricacies of Software Design and architecture, with a particular focus on system diagrams and software design patterns. Understanding how computer systems connect through system diagrams provided valuable insights into our ongoing project, guiding our decisions on feature implementation and overall system structure.
 
