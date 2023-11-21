@@ -93,7 +93,7 @@ The Prototyping lessons, although covering tools I was already familiar with, pr
 
 In summary, Week 3 has been a dynamic combination of practical project development, strategic decision-making, and theoretical learning through OAL, positioning our team for success as we approach the crucial stages of our OCBC accessibility project.
 
-![trello](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/09a0fa48-b9c3-4f57-b2d7-2d65e0199703)
+![image](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/3e872477-7884-46cd-859f-9c7013eb8605)
 
 
 ## Week 4 - November 7th, 2023:
