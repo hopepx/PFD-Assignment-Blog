@@ -92,7 +92,9 @@ The Agile and SCRUM sessions were particularly enlightening, offering a structur
 The Prototyping lessons, although covering tools I was already familiar with, provided valuable insights into advanced techniques and design principles. This knowledge will undoubtedly contribute to elevating the user interface design in our project and future endeavours.
 
 In summary, Week 3 has been a dynamic combination of practical project development, strategic decision-making, and theoretical learning through OAL, positioning our team for success as we approach the crucial stages of our OCBC accessibility project.
+
 ![Uploading image.png…]()
+
 
 ## Week 4 - November 7th, 2023:
 Our group reached a crucial point in our project development, marked by a meeting with the OCBC representative. During this session, we showcased a demo of our keybinds and speech-to-text features. The representative advised us to prioritize the keybind feature over speech recognition unless the latter was exceptionally accurate. Additionally, we received guidance to temporarily set aside the eye-tracking feature. This feedback provided valuable clarity, and we restructured our work accordingly.
