@@ -94,6 +94,22 @@ The Prototyping lessons, although covering tools I was already familiar with, pr
 In summary, Week 3 has been a dynamic combination of practical project development, strategic decision-making, and theoretical learning through OAL, positioning our team for success as we approach the crucial stages of our OCBC accessibility project.
 
 ## Week 4 - November 7th, 2023:
+Our group reached a crucial point in our project development, marked by a meeting with the OCBC representative. During this session, we showcased a demo of our keybinds and speech-to-text features. The representative advised us to prioritize the keybind feature over speech recognition unless the latter was exceptionally accurate. Additionally, we received guidance to temporarily set aside the eye-tracking feature. This feedback provided valuable clarity, and we restructured our work accordingly.
 
+My focus this week has been on the design of the website. I led the frontend development efforts for key pages—landing, login/sign-up, and the customer dashboard. Simultaneously, I took charge of enhancing the overall design aesthetics of the website. My focus was on ensuring these pages are not only technically robust but also visually appealing, aiming to create a seamless and engaging user experience.
+
+Overall, the week has been productive, and our project is taking shape as we approach the impending Hackathon in Week 5.
+
+#### OAL Reflection:
+
+During the Online Learning (OAL) session this week, I gained insights into effective communication through speeches, PowerPoint presentations, and software architecture diagrams.
+
+In the context of speeches, I learned the nuances of delivering impactful pitches for demo day. Key elements such as the problem statement, differentiation, monetization, and team were emphasized. Handling speech failures and focusing on clear idea communication, rather than strict adherence to a specific duration, were also highlighted.
+
+In the realm of PowerPoint presentations, I acquired practical knowledge on simplifying and structuring slides using frameworks like MOVIE, SCQA, and the pyramid principle. The importance of optimizing titles, adding subtitles to charts, simplifying text and visuals, and effectively guiding the audience through the presentation were key takeaways.
+
+The session on software architecture diagrams enlightened me on their significance in illustrating system components. I was introduced to Draw.io as a user-friendly tool for creating these diagrams. Design patterns were covered extensively, providing a deeper understanding of critical patterns such as Facade, Proxy, Iterator, Observer, Mediator, Conditional Logic, Switch Statements, Singleton, Prototype, Builder, and Factory. These patterns offer reusable solutions to common software design challenges, enhancing my communication skills and architectural understanding in software development.
+
+In summary, Week 4 has been a blend of impactful project development decisions and valuable insights from the OAL sessions, positioning our team for success as we approach the final stages of our OCBC accessibility project.
 
 ## Week 5 - November 14th, 2023:
