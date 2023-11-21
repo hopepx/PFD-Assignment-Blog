@@ -132,6 +132,7 @@ The Bytehackz hackathon unfolded as a crucible of innovation, challenging our te
 
 The Bytehackz saga, with its twists and turns, has left an indelible mark on our team, pushing us to redefine the boundaries of innovation and excellence. It was not merely a hackathon; it was a narrative of resilience, creativity, and the relentless pursuit of turning challenges into triumphs. The lessons learned and experiences gained during these three days will continue to echo in the corridors of our future projects, serving as a beacon of inspiration for endeavors yet to unfold.
 ![dash](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/a60ee8ab-8f2a-4caf-81b2-489472b64182)
+![image](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/26c003be-e2e3-42ee-88f4-d1b4c814fff5)
 ![dash2](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/d02b230b-9ca5-4b7d-b20b-3bf376945cc8)
 ![transfer](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/b83e0bd4-673b-483a-b7a0-3c442747019e)
 ![us](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/a06aded8-c805-4b13-a7ec-a76722e65228)
