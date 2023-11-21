@@ -69,6 +69,7 @@ The Inception deck OAL further equipped me with the skills needed to construct a
 In addition, the insights gained from the OAL sessions on Agile methodologies, prototyping tools like Figma and Adobe XD, and UI/UX design principles have deepened my understanding of these crucial aspects of project development. I am eager to apply this newfound knowledge to our portfolio development project, ensuring a robust and user-friendly end product.
 
 Overall, Week 2 has been a dynamic blend of practical project development and theoretical learning through OAL, positioning our team for success in the upcoming phases of our OCBC accessibility project.
+![image](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/9e63ee45-939c-46b1-a749-d397c94c5c08)
 
 ## Week 3 - October 31th, 2023:
 In the third week of our project development, our group engaged in a meaningful consultation with the OCBC Coach to assess our progress over the past two weeks. Taking into account the feedback and insights gained, we decided to reallocate our focus, placing greater emphasis on developing the voice command and keybind features. This strategic shift was prompted by the limitations we identified in the capabilities of the previously proposed eye-tracker-controlled cursor.
