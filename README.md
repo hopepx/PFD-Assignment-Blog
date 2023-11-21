@@ -130,3 +130,9 @@ As the hackathon unfolded, each keystroke and line of code became notes in a sym
 The Bytehackz hackathon unfolded as a crucible of innovation, challenging our team to navigate a labyrinth of obstacles while weaving our unique solution. The experience etched the importance of adaptability and swift problem-solving into the core of our collective consciousness. It served as a vivid reminder that in the realm of technology, thorough testing and rehearsal emerge as the unsung heroes when faced with unforeseen technical tempests during project presentations. As we cast our gaze into the future, these revelations will be the North Star guiding our approach to upcoming projects, emphasizing the need for meticulous preparation to present a demonstration that is not just comprehensive but also artfully curated.
 
 The Bytehackz saga, with its twists and turns, has left an indelible mark on our team, pushing us to redefine the boundaries of innovation and excellence. It was not merely a hackathon; it was a narrative of resilience, creativity, and the relentless pursuit of turning challenges into triumphs. The lessons learned and experiences gained during these three days will continue to echo in the corridors of our future projects, serving as a beacon of inspiration for endeavors yet to unfold.
+![dash](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/a60ee8ab-8f2a-4caf-81b2-489472b64182)
+![dash2](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/d02b230b-9ca5-4b7d-b20b-3bf376945cc8)
+![transfer](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/b83e0bd4-673b-483a-b7a0-3c442747019e)
+![us](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/a06aded8-c805-4b13-a7ec-a76722e65228)
+![uss](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/34d0a740-e508-4d2c-8ab6-61d6b5ae614c)
+
