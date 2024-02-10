@@ -158,3 +158,4 @@ Individual Contribution:
 As the front-end developer, this week offered me a unique opportunity to rework elements of our user interface. With a focus on the forthcoming sprints, I revisited and refined aspects that needed attention. The goal was to align the front-end with our evolving project vision, ensuring that the interface not only reflected the functionality but also delivered an intuitive and engaging user experience.
 
 Week 12 became a milestone, a juncture where reflection met innovation, and plans transformed into action. As we dove into the sprints ahead, each keystroke, each feature, and each suggestion played a role in shaping our project into a more robust and user-centric solution.
+![language](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/dc518a82-3435-4ce8-9675-bfe6524a65c0)
