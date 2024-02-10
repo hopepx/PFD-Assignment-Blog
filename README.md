@@ -176,3 +176,21 @@ My dedication and efforts were instrumental in ensuring that the frontend of the
 
 The ongoing collaboration within our team showcased the synergy of diverse skills, with each member contributing uniquely to the project's success. As the sprint unfolded, the collective efforts of our group propelled our project closer to realization, transforming individual contributions into a harmonious and functional whole.
 ![language 2](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/e8f20a3d-24fc-4469-963e-cd1dd8ea86bf)
+
+## Week 14 - January 16th, 2024:
+
+Project Development:
+
+As Week 14 unfolded, our team remained dedicated to refining and enhancing our project. Ervin took on the challenge of addressing an issue where the language for voice recognition failed to change when the language button was selected. Simultaneously, Xin Yin delved into research on implementing simplified authentication using facial recognition, exploring innovative ways to enhance security features.
+
+Individual Contribution:
+
+My designated task for this week was to work on the popup and help page. However, upon careful consideration and with the goal of prioritizing user experience, I made the decision to pivot and focus on improving the navigation bar instead. Recognizing the importance of an intuitive and user-friendly interface, I aimed to enhance the overall navigation experience for our users.
+
+The revamped navigation bar serves as a key element in ensuring that users can seamlessly interact with our platform. Through thoughtful design and usability considerations, I contributed to creating a more accessible and visually appealing navigation system. This decision aligns with our overarching goal of providing a positive and efficient user experience throughout our project.
+
+As individual contributions coalesce within our team, each member's dedication to their respective tasks continues to shape and refine our project. Through collaborative efforts, we move closer to realizing a comprehensive and user-centric solution.
+![WhatsApp Image 2024-02-10 at 17 46 02_630f198d](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/4fde7501-01dc-4e63-9a66-3ec950d50e06)
+e6a236-723c-44af-9bbc-eff961df976d)
+![Add Popup](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/d50094bd-3620-489d-a2c9-b25d66a9faa7)
+![help page](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/f7e6a236-723c-44af-9bbc-eff961df976d)
