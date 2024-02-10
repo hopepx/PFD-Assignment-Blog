@@ -192,5 +192,29 @@ The revamped navigation bar serves as a key element in ensuring that users can s
 As individual contributions coalesce within our team, each member's dedication to their respective tasks continues to shape and refine our project. Through collaborative efforts, we move closer to realizing a comprehensive and user-centric solution.
 ![WhatsApp Image 2024-02-10 at 17 46 02_630f198d](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/4fde7501-01dc-4e63-9a66-3ec950d50e06)
 e6a236-723c-44af-9bbc-eff961df976d)
+![face](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/8e71e062-fc3d-45d4-a207-186435393ff0)
 ![Add Popup](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/d50094bd-3620-489d-a2c9-b25d66a9faa7)
 ![help page](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/f7e6a236-723c-44af-9bbc-eff961df976d)
+
+## Week 15 - January 23th, 2024:
+
+Project Development:
+
+In the 15th week of our project, progress continued with dedicated efforts from each team member. I took a step towards enhancing user experience by implementing improved UX styling for our language options. Simultaneously, Xin Yin focused on refining the styling for the video, ensuring that gesture detection occurred prominently at the bottom left of the website. Her efforts aimed to provide users with a clear visual indicator of their hand's position for effective navigation.
+
+Xin Yin also achieved a significant milestone by successfully integrating facial recognition into our code. Although the images of people were initially "hardcoded" locally, her achievement paved the way for future advancements. To further enhance this feature, plans were set in motion to explore ways to store images on a server and implement a login function once a person is detected.
+
+Keene, our diligent team member, devoted time to crafting compelling PowerPoint slides for our upcoming presentation. Meanwhile, Bi De and Ervin focused on the backend aspects, delving into the intricacies that would bolster the functionality of our project.
+
+Individual Contribution:
+
+Within this collaborative framework, my contribution centred around the settings and account page. I immersed myself in refining and optimizing this crucial aspect of our project, addressing bugs, and implementing improvements to the help page. My aim was to ensure that users could easily navigate the settings and find assistance when needed, aligning with our commitment to delivering a seamless and user-friendly platform.
+
+As we collectively worked towards our goals, each team member's unique contributions harmonized, propelling our project towards its envisioned completion. The collaborative synergy within our team continued to be a driving force, underscoring the significance of each individual's role in shaping the final product.
+
+Conclusion:
+
+Completing this project has been a journey marked by collaboration, innovation, and a shared commitment to delivering a solution that addresses real-world challenges. Each team member's unique skills and contributions have melded into a comprehensive and functional platform. We navigated challenges, celebrated successes, and learned valuable lessons along the way. This experience showcases the power of teamwork, creative problem-solving, and a shared vision in achieving project goals. As we prepare for the final presentation, we do so with a sense of accomplishment, knowing that our collective efforts have shaped a project that holds promise and potential in addressing the needs of its users.
+![team](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/c86a2712-1d19-4dd7-bae4-f13151852e54)
+![final](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/56580f68-aad0-42d1-8490-7d9c175d9224)
+![dsds](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/27912f2b-216a-488c-8471-405ce28b163a)
