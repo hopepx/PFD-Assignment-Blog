@@ -159,3 +159,20 @@ As the front-end developer, this week offered me a unique opportunity to rework 
 
 Week 12 became a milestone, a juncture where reflection met innovation, and plans transformed into action. As we dove into the sprints ahead, each keystroke, each feature, and each suggestion played a role in shaping our project into a more robust and user-centric solution.
 ![language](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/dc518a82-3435-4ce8-9675-bfe6524a65c0)
+
+## Week 13 - January 9th, 2024:
+
+Project Development:
+
+In the latest sprint, our group achieved significant milestones by completing two transformative features: navigation with gestures and multi-language voice commands. Ervin took charge of the voice command feature, while Bi De and Xin Yin collaborated on the intricate task of implementing navigation through gestures. Simultaneously, Keene, our dedicated product owner, undertook the essential role of organizing and refining our workflow on the Trello board, translating it into user stories and actionable tasks.
+
+As the features began to take shape within the project, my focus seamlessly shifted towards the frontend development of the language feature. This involved not only crafting an intuitive and visually appealing interface for the multi-language voice command but also delving into the project's codebase to enhance functionality and address existing bugs. This dual responsibility allowed me to immerse myself in the intricacies of both design and problem-solving.
+
+Individual Contribution:
+
+In the realm of individual contribution, my role extended beyond the frontend development. With a keen eye for detail and a commitment to delivering a seamless user experience, I actively participated in refining and improving the functionality of the language feature. Identifying and addressing buggy areas within the website became a key aspect of my individual contribution.
+
+My dedication and efforts were instrumental in ensuring that the frontend of the language feature not only met but exceeded expectations. Through collaborative problem-solving and creative design decisions, I played a crucial role in shaping a feature that seamlessly integrated into our project, enhancing its overall usability and appeal.
+
+The ongoing collaboration within our team showcased the synergy of diverse skills, with each member contributing uniquely to the project's success. As the sprint unfolded, the collective efforts of our group propelled our project closer to realization, transforming individual contributions into a harmonious and functional whole.
+![language 2](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/e8f20a3d-24fc-4469-963e-cd1dd8ea86bf)
