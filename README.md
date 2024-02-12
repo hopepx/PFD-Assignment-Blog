@@ -175,6 +175,7 @@ In the realm of individual contribution, my role extended beyond the frontend de
 My dedication and efforts were instrumental in ensuring that the frontend of the language feature not only met but exceeded expectations. Through collaborative problem-solving and creative design decisions, I played a crucial role in shaping a feature that seamlessly integrated into our project, enhancing its overall usability and appeal.
 
 The ongoing collaboration within our team showcased the synergy of diverse skills, with each member contributing uniquely to the project's success. As the sprint unfolded, the collective efforts of our group propelled our project closer to realization, transforming individual contributions into a harmonious and functional whole.
+![bereal](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/6cc00ca2-ee97-4287-88bc-d4d075f1d3b6)
 ![language 2](https://github.com/hopepx/PFD-Assignment-Blog/assets/61568156/e8f20a3d-24fc-4469-963e-cd1dd8ea86bf)
 
 ## Week 14 - January 16th, 2024:
